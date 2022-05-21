@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3425" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/drawable/ic_amount_24dp.xml" value="0.3425" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/drawable/ic_dollar_24dp.xml" value="0.3425" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3425" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/drawable/ic_money_16dp.xml" value="0.3425" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/drawable/ic_serving_24dp.xml" value="0.3425" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/drawable/ic_thumbs_up_24.xml" value="0.3425" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/drawable/ic_thumbs_up_24dp.xml" value="0.3425" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/drawable/ic_time_24dp.xml" value="0.3425" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/drawable/shape_background.xml" value="0.196" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/layout/activity_information.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/layout/fragment_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/layout/item_loading.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/layout/item_recipe.xml" value="0.5" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/layout/layout_connection.xml" value="0.33" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/layout/layout_ingredients.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/63966/Desktop/Source Code/Android Tutorial/Recipe/app/src/main/res/layout/layout_loading.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
